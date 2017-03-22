@@ -2,7 +2,7 @@
 jQuery extension to control the file's drop on an element and the progress of file's upload
 
 
-##Drop file
+Drop file
 
 ```html
 <div id="dropzone">
@@ -39,7 +39,7 @@ jQuery extension to control the file's drop on an element and the progress of fi
 
 
 
-##Upload file
+Upload file
 
 ```html
 <div id="dropzone">
